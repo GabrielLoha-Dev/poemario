@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #app {
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #search-form {
+    margin: 20px 0;
+  }
+  
+  #poem-input {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #poem-data {
+    margin-top: 20px;
+  }
+  
+  .poem-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .poem-card h2 {
+    margin: 0 0 10px;
+  }
+  
+  .poem-card p {
+    white-space: pre-line;
+    line-height: 1.6;
+  }
+  
+  #navigation {
+    margin: 20px 0;
+  }
+  
+  #navigation button {
+    margin: 0 10px;
+  }
+
+  #btn{
+    outline: none;
+    background-color: red;
+    border: solid 1px red;
+    color: white;
+    border-radius: 5px;
+  }
+
+  input{
+    outline: none;
+  }
+  
